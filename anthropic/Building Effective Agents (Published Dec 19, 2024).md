@@ -7,19 +7,23 @@
 
 ## 2. Different Types of Workflow
 
-2.1 prompt chaining
+### 2.1 prompt chaining
+[[A Survey on Large Language Model-based MultiAgent Systems Paradigms, Applications, andChallenges#1.1.1 Sequential]]
 add programmatic checks (see "gate” in the diagram below) on any intermediate steps to ensure that the process is still on track.
 
-2.2 Routing 
+### 2.2 Routing 
+[[A Survey on Large Language Model-based MultiAgent Systems Paradigms, Applications, andChallenges#1.1.1 Sequential]]
 Routing classifies an input and directs it to a specialized followup task.
 
-2.3 Parallelization
+### 2.3 Parallelization
+[[A Survey on Large Language Model-based MultiAgent Systems Paradigms, Applications, andChallenges#1.1.4 Ensemble]]
 LLM calls1 + calls2 + calls3 -> aggregator 
 
-2.4 Orchestrators - workers 
+### 2.4 Orchestrators - workers 
+[[A Survey on Large Language Model-based MultiAgent Systems Paradigms, Applications, andChallenges#1.1.3 Hierarchical]]
 Central LLM breaks down tasks and send them to workers and synthesize the outputs 
 
-2.5 Evaluator-optimizer loop 
+### 2.5 Evaluator-optimizer loop 
 One LLM generates a response while another provides feedback and evaluation in a loop
 
 ## 3. Agents 

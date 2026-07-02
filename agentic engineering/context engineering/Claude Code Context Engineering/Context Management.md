@@ -1,5 +1,10 @@
 context resets: Deprecated
 
+
+## Snipping 
+## Micro Compact 
+
+
 ## Context Collapse 
 
 - Claude Code forks a ctx-agent to evaluate the message history and give them risk score.
@@ -9,7 +14,7 @@ context resets: Deprecated
 
 ## Auto Compact
 
-### 1 PreCompact Hook
+### 1 PreCompact Hook [[Hooks Mechnism]]
 
 Append [[#1 BASE_COMPACT_PROMPT]] and [[#2 Additional Instruction]]
 

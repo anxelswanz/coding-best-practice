@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0f3b39394457bef",
+            "id": "5bf8b5cf20f07b02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding principle/SOLID Principle.md",
+                "file": "plugins/Claude Code Skills Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID Principle"
+              "title": "Claude Code Skills Architecture"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "cognitive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,17 +162,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "multi-agent/CrewAI Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of CrewAI Note"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -190,46 +190,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0f3b39394457bef",
+  "active": "5bf8b5cf20f07b02",
   "lastOpenFiles": [
-    "agentic engineering/context engineering/Claude Code Context Engineering/Hooks Mechnism.md",
-    "coding principle/SOLID Principle.md",
-    "coding principle",
-    "agentic engineering/context engineering/Claude Code Context Engineering/Context Management.md",
-    "agentic engineering/prompt engineering/Claude Code Prompt Engineering.md",
-    "agentic engineering/context engineering/Claude Code Context Engineering/Messages.md",
-    "agentic engineering/context engineering/Claude Code Context Engineering/System Context & User Context.md",
-    "agentic engineering/harness engineering/(Article) Harness design for long-running application development.md",
-    "agentic engineering/harness engineering/Harness Engineering Intro.md",
+    "anthropic/阿姆达尔定律（Amdahl's law）.md",
+    "anthropic/When AI builds itself.md",
+    "anthropic/Building Effective Agents (Published Dec 19, 2024).md",
+    "multi-agent/Claude Code Agent Teams.md",
+    "multi-agent/The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory.md",
+    "multi-agent/Sub-Agent System in Claude Code.md",
+    "multi-agent/research paper/A Survey on Large Language Model-based MultiAgent Systems Paradigms, Applications, andChallenges.md",
+    "multi-agent/CrewAI Note.md",
+    "agentic engineering/harness engineering/Astraea Harness Engineering/Agent Teams.md",
+    "agentic engineering/harness engineering/Astraea Harness Engineering/Heavy PDF Blasts the Context Window Problem.md",
+    "agentic engineering/harness engineering/Astraea Harness Engineering/Astraea Features Before V1.0.0.md",
+    "agentic engineering/harness engineering/Astraea Harness Engineering/Task Improvements for Astraea.md",
     "evals/Eval.md",
+    "evals/Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md",
+    "Concept/Causal Mask.md",
+    "Concept/RNN (Recurrent Neural Network).md",
+    "Concept/FNN (FeeddForward Neural Network or Fully Connected Neural Network).md",
+    "Concept/Encode and Decoder.md",
     "Concept/Operating System.md",
-    "plugins/Claude Code Skills Architecture.md",
+    "Concept/Softmax Function.md",
+    "LLM/Transformer.md",
+    "Concept/Attention Mechnism.md",
+    "Concept/Embedding.md",
+    "Concept/Grep vs Ripgrep vs RAG.md",
+    "Concept/Untitled.md",
+    "Concept/Tokenization.md",
+    "LLM",
+    "Pasted image 20260625184648.png",
+    "Pasted image 20260625180715.png",
+    "agentic engineering/harness engineering/Claude Code Harness Engineering",
+    "agentic engineering/harness engineering/Astraea Harness Engineering",
+    "multi-agent/research paper",
+    "coding principle",
     "App",
-    "agentic engineering/context engineering/Context Engineering Intro.md",
-    "agentic engineering/context engineering/Context Rot.md",
     "agentic engineering/context engineering/Claude Code Context Engineering/Untitled.canvas",
-    "agentic engineering/prompt engineering/Prompt Engineering Intro.md",
-    "agentic engineering/prompt engineering/Action-oriented Prompting.md",
     "agentic engineering/prompt engineering/Untitled",
-    "agentic engineering/context engineering/Claude Code Context Engineering/tools system/File Tools.md",
     "Concept",
     "agentic engineering/context engineering/Claude Code Context Engineering/tools system",
-    "agentic engineering/context engineering/Lost in the Middle Problem.md",
     "agentic engineering/context engineering/Claude Code Context Engineering",
-    "agentic engineering/harness engineering/memory/claude code autodream.md",
-    "agentic engineering",
-    "agentic engineering/harness engineering",
-    "agentic engineering/context engineering",
-    "agentic engineering/harness engineering/memory/Memory Extracts.md",
-    "agentic engineering/harness engineering/memory/continual learning bench/Continual Learning Bench V1.0.md",
-    "evals/Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md",
-    "multi-agent/Sub-Agent System in Claude Code.md",
-    "anthropic/Untitled.md",
-    "multi-agent",
-    "anthropic/Building Effective Agents [Published Dec 19, 2024].md",
-    "anthropic/阿姆达尔定律（Amdahl's law）.md",
     "Untitled.canvas",
-    "2026-06-10.md",
     "Untitled 1.canvas"
   ]
 }

@@ -1,5 +1,5 @@
 
-## atime, mtime, ctime 
+## 1. atime, mtime, ctime 
 
 In Linux and Unix System, atime/mtime/ctime are essential tags used by file system to record changes in different stages.
 
@@ -42,3 +42,21 @@ hello
 
 状态改变 (ctime): Jun 17 15:09:35 2026
 ```
+
+
+## 2. mmap 
+
+### 2.1 Traditional Read 
+
+Step 1: Disk -> Kernel Buffer 
+Step 2: Kernel Buffer -> User Buffer 
+
+### 2.2 Mmap lazy loading mechanism
+
+- **Establish the Mapping** 
+	-OS points a segment of `virtual memory address space` directly to the file space on disk 
+- **Trigger a page default**
+	-If the program attempts to access this memory for the first time then it will trigger a page default 
+- Lazy Loading
+	-OS will transport the data to the physical memory that was just mapped to your program
+
